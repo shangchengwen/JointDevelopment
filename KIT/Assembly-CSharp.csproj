@@ -61,18 +61,37 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\KIT\Base\MonoSingleton.cs" />
+    <Compile Include="Assets\KIT\BuildAssetBundle\Example\LoadAssetBundleTest.cs" />
+    <Compile Include="Assets\KIT\BuildAssetBundle\SourceCodes\LoadAssetBundle.cs" />
     <Compile Include="Assets\KIT\CrudeElapsedTimer\Example\CrudeElapsedTimerTest.cs" />
     <Compile Include="Assets\KIT\CrudeElapsedTimer\SourceCodes\CrudeElapsedTimer.cs" />
+    <Compile Include="Assets\KIT\CSV\Example\ReadCSVTest.cs" />
+    <Compile Include="Assets\KIT\CSV\Example\WriteCSVTest.cs" />
+    <Compile Include="Assets\KIT\CSV\SourceCodes\CsvFileCommon.cs" />
     <Compile Include="Assets\KIT\FSM\Example\FSMTest.cs" />
     <Compile Include="Assets\KIT\FSM\SourceCodes\FSMState.cs" />
     <Compile Include="Assets\KIT\FSM\SourceCodes\FSMStateContainer.cs" />
     <Compile Include="Assets\KIT\FSM\SourceCodes\FSMStateMachine.cs" />
+    <Compile Include="Assets\KIT\LogHelper\Example\LogHelperTest.cs" />
+    <Compile Include="Assets\KIT\LogHelper\SourceCodes\LogHelper.cs" />
     <Compile Include="Assets\KIT\Message\Example\MessageTestListener.cs" />
     <Compile Include="Assets\KIT\Message\Example\MessageTestSender.cs" />
     <Compile Include="Assets\KIT\Message\SourceCodes\Message.cs" />
     <Compile Include="Assets\KIT\Message\SourceCodes\MessageCenter.cs" />
     <Compile Include="Assets\KIT\Message\SourceCodes\MessageCommand.cs" />
+    <Compile Include="Assets\KIT\SceneConsole\Example\SceneConsoleTest.cs" />
+    <Compile Include="Assets\KIT\SceneConsole\SourceCodes\SceneConsole.cs" />
+    <None Include="Assets\KIT\Message\Readme.txt" />
+    <None Include="Assets\KIT\CrudeElapsedTimer\Readme.txt" />
+    <None Include="Assets\KIT\LogHelper\Readme.txt" />
+    <None Include="Assets\KIT\SceneConsole\Readme.txt" />
+    <None Include="Assets\LogHelper\log_20190406.txt" />
+    <None Include="Assets\KIT\UnityConsolePro\Readme.txt" />
+    <None Include="Assets\KIT\BuildAssetBundle\Readme.txt" />
+    <None Include="Assets\KIT\CSV\Readme.txt" />
     <None Include="Assets\KIT\FSM\ReadMe.txt" />
+    <None Include="Assets\KIT\Template\Readme.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>F:/Git/JointDevelopment/KIT/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
@@ -273,9 +292,6 @@
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>E:/Program Files/Unity201816f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
-    </Reference>
-    <Reference Include="ConsolePro.Editor">
-      <HintPath>F:/Git/JointDevelopment/KIT/Assets/Plugins/ConsolePro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/89898/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>

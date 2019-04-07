@@ -1,0 +1,5 @@
+Unity 控制台输出工具 可搜索
+
+UnityConsolePro 不能打包的问题
+UnityConsolePro 必须放在Editor文件夹中
+Editor文件夹中的脚本不会在build时被包含。

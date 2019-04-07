@@ -1,0 +1,60 @@
+﻿2019-04-06 14:27:53,251 [Debug]: Debug debug,这是一个测试
+UnityEngine.Debug:Log(Object)
+LogHelperTest:Start() (at Assets/KIT/LogHelper/Example/LogHelperTest.cs:11)
+
+2019-04-06 14:27:53,254 [Debug]: LogHelper debug,这是一个测试
+UnityEngine.Debug:Log(Object, Object)
+KIT.LogHelper:Log(Object, Object) (at Assets/KIT/LogHelper/SourceCodes/LogHelper.cs:101)
+KIT.LogHelper:Log(Object) (at Assets/KIT/LogHelper/SourceCodes/LogHelper.cs:94)
+LogHelperTest:Start() (at Assets/KIT/LogHelper/Example/LogHelperTest.cs:12)
+
+2019-04-06 14:27:53,256 [Error]: Debug error,这是一个测试
+UnityEngine.Debug:LogError(Object)
+LogHelperTest:Start() (at Assets/KIT/LogHelper/Example/LogHelperTest.cs:13)
+
+2019-04-06 14:27:53,258 [Error]: LogHelper error,这是一个测试
+UnityEngine.Debug:LogError(Object, Object)
+KIT.LogHelper:LogError(Object, Object) (at Assets/KIT/LogHelper/SourceCodes/LogHelper.cs:112)
+KIT.LogHelper:LogError(Object) (at Assets/KIT/LogHelper/SourceCodes/LogHelper.cs:106)
+LogHelperTest:Start() (at Assets/KIT/LogHelper/Example/LogHelperTest.cs:14)
+
+2019-04-06 14:27:53,259 [Warning]: Debug warning,这是一个测试
+UnityEngine.Debug:LogWarning(Object)
+LogHelperTest:Start() (at Assets/KIT/LogHelper/Example/LogHelperTest.cs:15)
+
+2019-04-06 14:27:53,261 [Warning]: LogHelper warning,这是一个测试
+UnityEngine.Debug:LogWarning(Object, Object)
+KIT.LogHelper:LogWarning(Object, Object) (at Assets/KIT/LogHelper/SourceCodes/LogHelper.cs:123)
+KIT.LogHelper:LogWarning(Object) (at Assets/KIT/LogHelper/SourceCodes/LogHelper.cs:117)
+LogHelperTest:Start() (at Assets/KIT/LogHelper/Example/LogHelperTest.cs:16)
+
+2019-04-06 14:34:43,358 [Debug]: Debug debug,这是一个测试
+UnityEngine.Debug:Log(Object)
+LogHelperTest:Start() (at Assets/KIT/LogHelper/Example/LogHelperTest.cs:11)
+
+2019-04-06 14:34:43,361 [Debug]: LogHelper debug,这是一个测试
+UnityEngine.Debug:Log(Object, Object)
+KIT.LogHelper:Log(Object, Object) (at Assets/KIT/LogHelper/SourceCodes/LogHelper.cs:101)
+KIT.LogHelper:Log(Object) (at Assets/KIT/LogHelper/SourceCodes/LogHelper.cs:94)
+LogHelperTest:Start() (at Assets/KIT/LogHelper/Example/LogHelperTest.cs:12)
+
+2019-04-06 14:34:43,363 [Error]: Debug error,这是一个测试
+UnityEngine.Debug:LogError(Object)
+LogHelperTest:Start() (at Assets/KIT/LogHelper/Example/LogHelperTest.cs:13)
+
+2019-04-06 14:34:43,364 [Error]: LogHelper error,这是一个测试
+UnityEngine.Debug:LogError(Object, Object)
+KIT.LogHelper:LogError(Object, Object) (at Assets/KIT/LogHelper/SourceCodes/LogHelper.cs:112)
+KIT.LogHelper:LogError(Object) (at Assets/KIT/LogHelper/SourceCodes/LogHelper.cs:106)
+LogHelperTest:Start() (at Assets/KIT/LogHelper/Example/LogHelperTest.cs:14)
+
+2019-04-06 14:34:43,365 [Warning]: Debug warning,这是一个测试
+UnityEngine.Debug:LogWarning(Object)
+LogHelperTest:Start() (at Assets/KIT/LogHelper/Example/LogHelperTest.cs:15)
+
+2019-04-06 14:34:43,366 [Warning]: LogHelper warning,这是一个测试
+UnityEngine.Debug:LogWarning(Object, Object)
+KIT.LogHelper:LogWarning(Object, Object) (at Assets/KIT/LogHelper/SourceCodes/LogHelper.cs:123)
+KIT.LogHelper:LogWarning(Object) (at Assets/KIT/LogHelper/SourceCodes/LogHelper.cs:117)
+LogHelperTest:Start() (at Assets/KIT/LogHelper/Example/LogHelperTest.cs:16)
+

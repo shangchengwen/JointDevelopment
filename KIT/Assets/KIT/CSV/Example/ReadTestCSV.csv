@@ -1,0 +1,15 @@
+GameID,QuestionID,QuestionContent,Answers,,
+1001,a001,a,Y#a1,N#b1,N#c1
+1002,a002,b,Y#a2,N#b2,N#c2
+1003,a003,c,Y#a3,N#b3,N#c3
+1004,a004,d,Y#a4,N#b4,N#c4
+1005,a005,e,Y#a5,N#b5,N#c5
+1006,a006,f,Y#a6,N#b6,N#c6
+1007,a007,g,Y#a7,N#b7,N#c7
+1008,a008,h,Y#a8,N#b8,N#c8
+1009,a009,i,Y#a9,N#b9,N#c9
+1010,a010,j,Y#a10,N#b10,N#c10
+1011,a011,k,Y#a11,N#b11,N#c11
+1012,a012,l,Y#a12,N#b12,N#c12
+1013,a013,m,Y#a13,N#b13,N#c13
+1014,a014,n,Y#a14,N#b14,N#c14
