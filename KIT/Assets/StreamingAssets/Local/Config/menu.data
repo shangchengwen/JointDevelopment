@@ -1,0 +1,36 @@
+{
+	"return_code": 1,
+	"data_content": {
+		"time": 12.25,
+		"bool": true,
+		"game_list": [{
+				"gamename":      "   game one",
+				"gameid": "001",
+				"gameobjs": [{
+					"obj_tpye": "player",
+					"name": "player"
+				}, {
+					"obj_tpye": "enemy1",
+					"name": "enemy1"
+				}, {
+					"obj_tpye": "enemy2",
+					"name": "enemy2"
+				}]
+			},
+			{
+				"gamename": "game two",
+				"gameid": "002",
+				"gameobjs": [{
+					"obj_tpye": "player",
+					"name": "player"
+				}, {
+					"obj_tpye": "enemy1",
+					"name": "enemy1"
+				}, {
+					"obj_tpye": "enemy2",
+					"name": "enemy2"
+				}]
+			}
+		]
+	}
+}

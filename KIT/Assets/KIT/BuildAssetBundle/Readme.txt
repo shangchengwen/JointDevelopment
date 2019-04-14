@@ -1,1 +1,0 @@
-AssetBundle ╢Р╟Э ╪сть

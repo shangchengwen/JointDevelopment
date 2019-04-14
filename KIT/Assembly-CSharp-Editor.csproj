@@ -61,8 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\KIT\BuildAssetBundle\SourceCodes\Editor\AlterAssetBundle.cs" />
-    <Compile Include="Assets\KIT\BuildAssetBundle\SourceCodes\Editor\BuildAssetBundleEditor.cs" />
+    <Compile Include="Assets\Script\KIT\BuildAssetBundle\SourceCodes\Editor\AlterAssetBundle.cs" />
+    <Compile Include="Assets\Script\KIT\BuildAssetBundle\SourceCodes\Editor\BuildAssetBundleEditor.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>F:/Git/JointDevelopment/KIT/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
@@ -306,8 +306,11 @@
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>E:/Program Files/Unity201816f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="ClassLibrary1">
+      <HintPath>F:/Git/JointDevelopment/KIT/Assets/Plugins/ClassLibrary1.dll</HintPath>
+    </Reference>
     <Reference Include="ConsolePro.Editor">
-      <HintPath>F:/Git/JointDevelopment/KIT/Assets/KIT/UnityConsolePro/Editor/ConsolePro.Editor.dll</HintPath>
+      <HintPath>F:/Git/JointDevelopment/KIT/Assets/Script/KIT/UnityConsolePro/Editor/ConsolePro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/89898/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.7/Editor/UnityEditor.Advertisements.dll</HintPath>

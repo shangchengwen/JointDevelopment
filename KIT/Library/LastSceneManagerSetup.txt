@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Script/Frame/AMVCC/amvcc.unity
   isLoaded: 1
   isActive: 1
