@@ -28,6 +28,9 @@ namespace KIT
                 byte[] fileBytes = ReadFile(fullPath);
                 fileData = System.Text.Encoding.UTF8.GetString(fileBytes);
                 Debug.LogError(fileData);
+            }else 
+            {
+                Debug.LogError("no "+ fullPath);
             }
             object jsonObj = MiniJSON.jsonDecode(fileData);
             if (jsonObj == null)
